@@ -1,0 +1,25 @@
+@media (max-width: 390px) {
+  .continer {
+    display: block;
+  }
+  img.photo {
+    width: 31em;
+    padding-top: 5em;
+    padding-left: 8em;
+  }
+  p.para-img {
+    position: absolute;
+    left: 5em;
+    top: 5em;
+    font-size: 27px;
+  }
+  .right-said {
+    margin-top: 1.1em;
+    margin-bottom: 0.6em;
+    padding-left: 6em;
+    padding-right: 0em;
+    border-radius: 17px;
+    margin-left: -3.3em;
+    margin-right: -12em;
+  }
+}
